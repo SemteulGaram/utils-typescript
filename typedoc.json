@@ -1,0 +1,8 @@
+{
+  "name": "🛠 Utils (Typescript)",
+  "readme": "./README.md",
+  "theme": "minimal",
+  "out": "./docs",
+  "mode": "modules",
+  "tsconfig": "./tsconfig.json"
+}
