@@ -13,4 +13,6 @@ exports.__esModule = true;
 __exportStar(require("./html-extract-text"), exports);
 __exportStar(require("./is-dev"), exports);
 __exportStar(require("./number-format"), exports);
+__exportStar(require("./text-limiter"), exports);
+__exportStar(require("./uuid"), exports);
 //# sourceMappingURL=index.js.map

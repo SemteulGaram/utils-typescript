@@ -12,4 +12,5 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
 exports.__esModule = true;
 __exportStar(require("./global"), exports);
 __exportStar(require("./browser"), exports);
+__exportStar(require("./node"), exports);
 //# sourceMappingURL=index.js.map

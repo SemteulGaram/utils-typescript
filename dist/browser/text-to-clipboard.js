@@ -10,9 +10,10 @@ exports.__esModule = true;
 exports.textToClipboard = void 0;
 /**
  * Text to clipboard
- * (Without user interaction event, It may result security error)
+ * (without user interaction event, It may result security error)
  *
- * @param text - Text to copy
+ * @public
+ * @param text
  * @returns Command success or failure
  */
 function textToClipboard(text) {

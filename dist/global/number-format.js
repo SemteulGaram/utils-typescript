@@ -10,11 +10,11 @@ exports.__esModule = true;
 exports.numberWithCommas = void 0;
 /**
  * Number format to x,xxx,xxx
- * Origin: https://stackoverflow.com/a/3753507/8274779
+ * (origin: https://stackoverflow.com/a/3753507/8274779)
  *
  * @public
- * @param num - Number to convert
- * @param separator - Seperator (default: ',')
+ * @param num
+ * @param separator
  */
 function numberWithCommas(num, separator) {
     if (separator === void 0) { separator = ','; }
